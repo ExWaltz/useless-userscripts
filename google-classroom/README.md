@@ -1,4 +1,4 @@
-# Google Classroom
+# Google Classroom Userscripts
 
 Userscript for google classroom
 
